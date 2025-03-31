@@ -11,7 +11,7 @@ I’m originally from South Korea, lived in India, and now I’m based in Stockh
 - :zap: Fun fact: I spent my childhood mastering the art of the wooden fish, basically the Buddhist version of being a drummer!
 ## :mailbox: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hani-kristiansson/).
-## :hammer_and_wrench: Tools I Use
+## :hammer_and_wrench: Languages and Tools
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="springboot" width="30" height="30"/>
