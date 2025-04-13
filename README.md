@@ -1,4 +1,4 @@
-## About Me :smile:
+## About Me 
 Hi, I’m Hani Kristiansson! I’m a Java developer with a background in e-commerce and business. My experience improving customer experiences and understanding business needs sparked my interest in how systems are built and how they connect. This led me to start studying development.
 
 I’ve worked with data analysis to support business decisions and have gained some IT project coordination experience in India, where I got a better understanding of both tech and business processes.
